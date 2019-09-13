@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MyFirstARApp
 //
-//  Created by 笹野駿人 on 2019/09/12.
+//  Created by hayatosann on 2019/09/12.
 //  Copyright © 2019 hayatosann. All rights reserved.
 //
 
